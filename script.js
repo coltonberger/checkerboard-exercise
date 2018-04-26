@@ -5,16 +5,17 @@ let body = document.getElementsByTagName("body")[0];
     div.style.width = "11.1%"
     div.style.float = "left"
     div.style.paddingBottom = "11.1%"
-
-    function getRandomColor(){
-      let letters = '0123456789ABCDEF';
-      let color = '#';
-      for(let i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-      }
-      return color;
-    }
     div.style.backgroundColor = getRandomColor();
+
+  function getRandomColor(){
+    let letters = '0123456789ABCDEF';
+    let color = '#';
+    for(let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+
+    return color;
+  }
 
   body.appendChild(div)
 }

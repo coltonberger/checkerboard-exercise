@@ -1,7 +1,4 @@
-Black & Red Deployed URL: 
-Flashing Deployed URL: 
-Gradient Deployed URL: 
-Random Colors Deployed URL: 
+Deployed URL: 
 
 # DOM Manipulation Exercise
 

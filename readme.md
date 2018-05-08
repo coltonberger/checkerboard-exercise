@@ -1,4 +1,4 @@
-Deployed URL:
+Deployed URL: http://gradient_color.surge.sh/
 
 # DOM Manipulation Exercise
 

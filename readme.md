@@ -1,3 +1,5 @@
+Deployed URL:
+
 # DOM Manipulation Exercise
 
 As always, fork and clone this repo.  Submit the link to your fork when you're done.

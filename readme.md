@@ -1,4 +1,4 @@
-Deployed URL: 
+Deployed URL: http://random_colors.surge.sh/
 
 # DOM Manipulation Exercise
 
